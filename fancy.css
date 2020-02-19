@@ -1,0 +1,13 @@
+#member{
+  color:blue;
+}
+body{
+  background-color: red;
+}
+footer{
+  background-color: orange;
+  padding: 10px;
+}
+#table{
+  float: left;
+}
